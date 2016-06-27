@@ -1,0 +1,15 @@
+# HEADER
+language.name=Xxish
+language.region=XX
+language.code=xx_XX
+
+# TEST
+test1.name=Testxx 1
+test2.name=Testxx 2
+test3.name=TEST 3 ### NEEDS TRANSLATE ### 
+test4.name=TEST 4 ### NEEDS TRANSLATE ### 
+
+
+#### DEPRECATED entries: no longer used in the MASTER lang. You can delete them.
+testX.name=Testxx meh ### !!!DEPRECATED!!! ### 
+testY.name=Testxx duh ### !!!DEPRECATED!!! ### 

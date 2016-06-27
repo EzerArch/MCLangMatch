@@ -39,7 +39,13 @@ This tool will perform these steps:
 
 Once finished you will get the new lang file, you can then discard the old and messy lang file.
  
-Rename the new lang file by removing the `-NEW` from the file name and use it in resource packs or commit it to mod projects.
+Rename the new lang file by removing the `-NEW` from the file name and use it to continue translating.
+
+The ### NEEDS TRANSLATE ### tags will tell you where new entries were added. Remove them when done.
+
+The ### !!!DEPRECATED!!! ### tags will tell you those entries are no longer used in the en_US.lang. The deprecated entries can be reused and/or deleted from the file.
+
+Don't forget to remove the tags before using the new lang file in resource packs or to commit it to mod projects.
 
 
 ## Notes
@@ -48,4 +54,3 @@ Rename the new lang file by removing the `-NEW` from the file name and use it in
 * Not sure if it will work with all encodings/character sets.
 * 3 lang files were added as example.
 
-----

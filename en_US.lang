@@ -1,0 +1,10 @@
+# HEADER
+language.name=English
+language.region=US
+language.code=en_US
+
+# TEST
+test1.name=TEST 1
+test2.name=TEST 2
+test3.name=TEST 3
+test4.name=TEST 4
